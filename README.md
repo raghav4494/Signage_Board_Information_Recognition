@@ -9,7 +9,7 @@ Further details and screenshots can be found in the report.
 
 # To check the work flow of the code
 1. Load the given images,audio file contained in "Test Images" or your downloaded images into the folder where you are going to test the work.
-2. Download the code contained in "Source Code" Folder into the directory, images are presnet.
+2. Download the code contained in "Source Code" Folder into the directory, images are present.
 2. Edit the third line of the Signange_Board_Detection.m file, as per the image you want to experiment.
 3. Since It is connected to all other pieces of work, just hitting run on the Signange_Board_Detection.m is sufficient.
 4. View the different figures generated. Title on every image describes the image in brief.
